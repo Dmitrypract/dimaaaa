@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank">Danil</a> 
+<h1 align="center">Hi there, I'm <a target="_blank">Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer from Russia</h3>
 
@@ -7,8 +7,8 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://t.me/danissim00o" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" height="35"  /></a>
-<a href="mailto:dan.zaikin.96@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="35"  /></a>
+<a href="https://t.me/@Dimatyuj" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" height="35"  /></a>
+<a href="mailto:kuzuym12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="35"  /></a>
 </p>
 
 
